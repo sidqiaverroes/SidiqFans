@@ -1,3 +1,3 @@
 # SidiqFans
 
-Bot pembully sidiq #stopbullying
+Bot discord pembully sidiq #stopbullying
